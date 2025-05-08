@@ -4,6 +4,20 @@ public class ShapeApp {
 
 	public static void main(String[] args) {
 		
+		/*
+		 Shape(2)
+		 
+		 Shape(0)
+		 Triangle(0)
+		 
+	 	 Shape(2)
+		 Triangle(2)
+		 
+		 Shape(2)
+		 Triangle(4)
+		 */
+		
+		
 		Shape s1 = new Shape("파랑", "파랑");
 		System.out.println("================");
 		
